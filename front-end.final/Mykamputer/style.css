@@ -1,0 +1,36 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+
+.modal1 .modal-content {
+    background-color: rgb(212, 235, 235);
+}
+
+.cratemodal {
+    position: fixed;
+}
+
+.alerts {
+    margin-bottom: 100px;
+}
+
+.editmodal {
+    position: fixed;
+}
+
+.alerts2 {
+    margin-bottom: 100px;
+}
+
+.btn-close {
+position: absolute;
+right: 20px;
+top: 25px;
+}
